@@ -20,4 +20,4 @@ In this lab scenario, I simulated a network typically seen within a company/corp
 *Main and Branch office IP Addresses are provided by DHCP server from Main office*
 
 ### Network Topology:
-![Network Topology of Company Network Scenario](https://imgur.com/8oHoZ2U)
+<img src="https://imgur.com/8oHoZ2U">
